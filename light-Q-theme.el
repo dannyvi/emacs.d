@@ -3,8 +3,7 @@
 
 (custom-theme-set-variables
  'light-Q
- '(package-selected-packages (quote (pdf-tools paredit-mode racket-mode exec-path-from-shell use-package)))
- '(pdf-misc-print-programm "/Users/yudan/Documents/book/架构之美(清晰中文完整版).pdf"))
+ '(package-selected-packages (quote (pdf-tools paredit-mode racket-mode exec-path-from-shell use-package))))
 
 (custom-theme-set-faces
  'light-Q
